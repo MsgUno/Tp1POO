@@ -41,10 +41,5 @@ CLASE DEMOPLAYLIST:
 Dentro de la clase DemoPlayList se encuentra un metodo main donde hemos probado los metodos en su conunto a medida que ibamos codificando.
 creamos una PlayList, le agregamos 4 canciones y probamos los metodos de eliminacion, agregacion, consulta de duracion etc.
 
-Conclusion:
-Con la poca comunicacion que hemos tenido entre el grupo y  el abandono de la materia por parte de 3 de nuestros compañeros nos resulto
-dificil completar las consignas a tiempo. Hemos recurrido a las clases grabadas y a bibliografia de la catedra ("Como Programar en Java decima edicion" Deitel &Deitel).
-
-
 
 
